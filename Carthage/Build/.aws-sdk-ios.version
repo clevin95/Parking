@@ -1,0 +1,146 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "2.6.16",
+  "iOS" : [
+    {
+      "name" : "AWSAPIGateway",
+      "hash" : "a1f5178ab6c6147f671b0cabf7917a06c58a244524acc52183101a7e2b43c84a"
+    },
+    {
+      "name" : "AWSCloudWatch",
+      "hash" : "67b3040329afbd7c758e6d0bdcdb8db6b907a4883a567d1b8970179dff916425"
+    },
+    {
+      "name" : "AWSCognitoIdentityProviderASF",
+      "hash" : "d7069640d7c91719d777ac431637436c5902802e678f90f9d0739cc75bdbb4a9"
+    },
+    {
+      "name" : "AWSSQS",
+      "hash" : "536b4fbb8bc09b44fbe74e3c65008f22c692edf088206469afd334c5fcb4fd60"
+    },
+    {
+      "name" : "AWSUserPoolsSignIn",
+      "hash" : "2d3b4004eeaa6182d5362e61cc0aaaf4d9779bd41791a631f55e0a96afaece4d"
+    },
+    {
+      "name" : "AWSMobileAnalytics",
+      "hash" : "119f028890c514cf78607625a15b5968cb1c925098aca14c472079f5a78e9898"
+    },
+    {
+      "name" : "AWSCognito",
+      "hash" : "7bd69ccd63fae11eaa183f1b8b6f61c973397412b62b1063260be76906cf1fe3"
+    },
+    {
+      "name" : "AWSSimpleDB",
+      "hash" : "fae34776892ad55c498c27cffaa613d9c61e6dfb6a96e4f4a6270436b41dd0c9"
+    },
+    {
+      "name" : "AWSAuthUI",
+      "hash" : "e4fda6d7c7f7c4a950ca5b8642d153f0c2dd8b909c84e0a84c040fe0ee39d058"
+    },
+    {
+      "name" : "AWSMobileClient",
+      "hash" : "d80bdefac18505e9afbc5ad76ed2f7b5efa30f5e22eaa9644df48677e73098aa"
+    },
+    {
+      "name" : "AWSFacebookSignIn",
+      "hash" : "85a429a91def8b161193cdb12f1fda34dff381703ef8a932314ffe3a30e29d79"
+    },
+    {
+      "name" : "AWSMachineLearning",
+      "hash" : "47abe0d578867ec60938bf34012b06064428cdb7bbe6b528996e225c0c6e178d"
+    },
+    {
+      "name" : "AWSKinesis",
+      "hash" : "4363a9db9138a8e6f05f3b30c38c0edb7252703a4d77c8dcc850163b35d9708a"
+    },
+    {
+      "name" : "AWSSES",
+      "hash" : "83f9cb917d983a6259d0310d875e1d1366ff92c55fc135533829bc57a1d3dd65"
+    },
+    {
+      "name" : "AWSCognitoAuth",
+      "hash" : "7eb1a600c95a8166acae58606c9e3a5b0606a406e39e9618ef0dda8558131274"
+    },
+    {
+      "name" : "AWSGoogleSignIn",
+      "hash" : "46add176d41c47eabe9c39cebf76ab8b1efe98de423c90d23683695d60b62a76"
+    },
+    {
+      "name" : "AWSPolly",
+      "hash" : "0069484f444eb03a5df517319e3a8594d37a62f7b6ea99a8cee3709846ba050b"
+    },
+    {
+      "name" : "AWSDynamoDB",
+      "hash" : "f0aa766023f8035c12f4a3838f516ddacbd0ba58f808e07cadd3ec45ac1701a2"
+    },
+    {
+      "name" : "AWSAuthCore",
+      "hash" : "c1067579a38ae9875df1c65e0c318c0a6c0cd32b45c5b2495f0a6b41a3b2d683"
+    },
+    {
+      "name" : "AWSSNS",
+      "hash" : "7b98f3df30d904623dbe088d76ec9bc5691af7612d18a86e6ed3607897acb79e"
+    },
+    {
+      "name" : "AWSKMS",
+      "hash" : "79c3702980e069904cc07d2ef62bd77c7386e22fd0070d673b313227f6d9a811"
+    },
+    {
+      "name" : "AWSIoT",
+      "hash" : "5e3435867eed7f983c9083586e83aa702111ca7cd95ff1bf7ee7b4cf99ce3c5f"
+    },
+    {
+      "name" : "AWSLogs",
+      "hash" : "d6f3d0a813cd62e2b7d0ec7724ca61a33434eea3182968dde8ebcbd433d9cc92"
+    },
+    {
+      "name" : "AWSRekognition",
+      "hash" : "af0a11fb43835ef88b057512e163fd66685577f1fbf5d039daa711f24356e1ee"
+    },
+    {
+      "name" : "AWSAutoScaling",
+      "hash" : "0bf00cfb6eacb5055c729c817db108bdf61b6d80affda7b9db4af9b2fa041bab"
+    },
+    {
+      "name" : "AWSElasticLoadBalancing",
+      "hash" : "3f9a32b7c526d99a3f88e2330c0b6e3a46a8b4c4609c7a794ce7dd8a5ca8937b"
+    },
+    {
+      "name" : "AWSLambda",
+      "hash" : "e948747bdd132540dd08e1d55a3105cc19784574740322c9d71ececf22ac2bcc"
+    },
+    {
+      "name" : "AWSLex",
+      "hash" : "a26265b57b61f4959e7040266fb61a17faa318aae7882b97ada5b6486fa96497"
+    },
+    {
+      "name" : "AWSPinpoint",
+      "hash" : "fa1ecfd298625a57bd654546bc2230fbc9db343bc57f2217b820b774203992c3"
+    },
+    {
+      "name" : "AWSS3",
+      "hash" : "a63576aeeed1ca2ffe6ce1da2d22075c3c2a5399543d9e8749c47f258cd6ab15"
+    },
+    {
+      "name" : "AWSCore",
+      "hash" : "6191d9e0450090c15b83ce9e66a3595cdf6870089add2ccd7f2f97cad584f509"
+    },
+    {
+      "name" : "AWSCognitoIdentityProvider",
+      "hash" : "339e1c64ac6b29958ebcc655212d6172c7e07c88edc2dd8de50b5ffafb259d0b"
+    },
+    {
+      "name" : "AWSEC2",
+      "hash" : "f5286c16a7ebb759d6add4b9feeffe0a7e29e5a729dcc29f60233562ee40b8b7"
+    }
+  ]
+}

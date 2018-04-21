@@ -1,0 +1,4 @@
+github "SnapKit/SnapKit" ~> 4.0.0
+github "aws/aws-sdk-ios"
+github "ninjaprox/NVActivityIndicatorView"
+github "vikmeup/SCLAlertView-Swift" "master"

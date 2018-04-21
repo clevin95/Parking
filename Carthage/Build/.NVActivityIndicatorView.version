@@ -1,0 +1,22 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "4.2.0",
+  "iOS" : [
+    {
+      "name" : "NVActivityIndicatorViewAppExtension",
+      "hash" : "31e4a7d70f32ef63661b23f2281377ddd9ac90c70cb0efe7850d0ef966448f3f"
+    },
+    {
+      "name" : "NVActivityIndicatorView",
+      "hash" : "07c172d13594faae4e43525e758417dea3d809f5eb069fb73453e3821ce56d5c"
+    }
+  ]
+}

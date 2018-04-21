@@ -1,0 +1,4 @@
+github "SnapKit/SnapKit" "4.0.0"
+github "aws/aws-sdk-ios" "2.6.16"
+github "ninjaprox/NVActivityIndicatorView" "4.2.0"
+github "vikmeup/SCLAlertView-Swift" "3b04846a962d2ab70ed2da3dbc9638600146b38a"

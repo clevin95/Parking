@@ -30,8 +30,8 @@ class AwsManager {
     if let data = UIImagePNGRepresentation(reduced) {
       let filename = getDocumentsDirectory().appendingPathComponent("copy.png")
       try? data.write(to: filename)
-      let accessKey = "AKIAJACS3JWHBLW5KX7Q"
-      let secretKey = "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"
+      let accessKey = ""
+      let secretKey = ""
       let credentialsProvider = AWSStaticCredentialsProvider(accessKey: accessKey, secretKey: secretKey)
       let configuration = AWSServiceConfiguration(region: AWSRegionType.USEast1, credentialsProvider: credentialsProvider)
       AWSServiceManager.default().defaultServiceConfiguration = configuration
